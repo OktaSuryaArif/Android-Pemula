@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">GraOSABooks</string>
+    <string name="books_name">Books</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Search</string>
+
+    <string name="name">Okta Surya Arif</string>
+    <string name="email">oktasuryaarief@gmail.com</string>
+    <string name="about">About Me</string>
+
+
+    <string-array name="data_name">
+        <item>Rich Dad Poor Dad</item>
+        <item>Laut Bercerita</item>
+        <item>Bicara Itu Ada Seninya</item>
+        <item>Psychology of Money Softcover</item>
+        <item>Detektif Conan 100</item>
+        <item>Jujutsu Kaisen 0</item>
+        <item>Secret Of Divine Love</item>
+        <item>Funiculi Funicula 2 Kisah Kisah Yang Baru Terungkap</item>
+        <item>One Piece 99</item>
+        <item>The Star and I</item>
+        <item>Buku Modul Resmi Taktis CPNS 2023</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rich Dad Poor Dad akan. Menghancurkan mitos Anda perlu memiliki penghasilan tinggi agar bisa kaya Menantang keyakinan bahwa rumah Anda adalah aset Menunjukkan kepada orangtua kenapa mereka tidak bisa mengandalkan sistem pendidikan untuk mengajari anak mereka tentang uang Mendefinisikan aset dan liabilitas secara jelas Mengajari Anda apa yang harus Anda ajarkan kepada anak tentang uang agar mereka memiliki masa depan keuangan yang suksesRobert Kiyosaki telah menantang dan mengubah cara pikir puluhan juta orang di seluruh dunia tentang uang. Dengan perspektif yang kerap bertentangan dengan kebijaksanaan umum, Robert memiliki reputasi sebagai orang yang bicara secara apa adanya, tidak menganggap penting hal-hal yang umumnya dianggap serius, dan berani. Dia diakui di seluruh dunia sebagai orang yang berdedikasi dan peduli dengan pendidikan keuangan.Alasan utama orang mengalami kesulitan keuangan adalah mereka menghabiskan waktu bertahun-tahun di sekolah tapi tidak belajar apa-apa tentang uang. Akibatnya, orang belajar untuk bekerja demi uang tapi tidak pernah belajar membuat uang bekerja bagi mereka. Robert Kiyosaki Rich Dad Poor DadBuku Pengelolaan Keuangan Pribadi No. 1 Sepanjang Masa! Rich Dad Poor Dad adalah titik awal bagi siapa pun yang ingin memegang kendali atas masa depan keuangan mereka.</item>
+        <item>Laut Bercerita, novel terbaru Leila S. Chudori, bertutur tentang kisah keluarga yang kehilangan, sekumpulan sahabat yang merasakan kekosongan di dada, sekelompok orang yang gemar menyiksa dan lancar berkhianat, sejumlah keluarga yang mencari kejelasan makam anaknya, dan tentang cinta yang tak akan luntur.</item>
+        <item>TAHUKAH ANDA BAHWA BERBICARA ITU ADA SENINYA? Ketika komunikasi menjadi hal yang penting untuk bersaing, pakar komunikasi Oh Su Hyang mengeluarkan buku yang sangat berarti. Selain berisi tentang pengalaman peningkatan diri, buku ini juga memuat berbagai konten mengenai teknik komunikasi, persuasi, dan negosiasi.Lalu bagaimana cara berbicara yang baik? Apakah berbicara dengan artikulasi yang jelas? Atau berbicara tanpa mengambil tarikan napas? Tidak! Sebuah ucapan yang bisa disebut baik adalah yang bisa menggetarkan hati. Ucapan seorang juara memiliki daya tarik tersendiri. Ucapan pemandu acara memiliki kemampuan menghidupkan suasana dan kekuatan kalimatnya yang terus terang. Anda harus pandai berbicara untuk menunjukkan diri Anda kepada lawan bicara dalam kehidupan sosial. Orang yang berbicara dengan mahir akan menjadi lebih maju daripada yang lainnya.Untuk mencapai tujuan komunikasi, persuasi, dan negosiasi, Anda harus mengetahui metode komunikasi yang efisien. Buku ini dijabarkan agar dapat dimengerti oleh siapa saja. Terdapat banyak episode menarik dari orang-orang terkenal dan juga rahasia inti dari komunikasi. Jika Anda membacanya dengan runut, saya yakin rasa percaya diri Anda untuk berbicara pun akan tumbuh dengan sendirinya."</item>
+        <item>Kesuksesan dalam mengelola uang tidak selalu tentang apa yang Anda ketahui. Ini tentang bagaimana Anda berperilaku. Dan perilaku sulit untuk diajarkan, bahkan kepada orang yang sangat pintar sekalipun. Seorang genius yang kehilangan kendali atas emosinya bisa mengalami bencana keuangan. Sebaliknya, orang biasa tanpa pendidikan finansial bisa kaya jika mereka punya sejumlah keahlian terkait perilaku yang tak berhubungan dengan ukuran kecerdasan formal. Uanginvestasi, keuangan pribadi, dan keputusan bisnisbiasanya diajarkan sebagai bidang berbasis matematika, dengan data dan rumus memberi tahu kita apa yang harus dilakukan. Namun di dunia nyata, orang tidak membuat keputusan finansial di spreadsheet. Mereka membuatnya di meja makan, atau di ruang rapat, di mana sejarah pribadi, pandangan unik Anda tentang dunia, ego, kebanggaan, pemasaran, dan berbagai insentif bercampur. Dalam The Psychology of Money, penulis pemenang penghargaan, Morgan Housel membagikan 19 cerita pendek yang mengeksplorasi cara-cara aneh orang berpikir tentang uang dan mengajari Anda cara memahami salah satu topik terpenting dalam hidup dengan lebih baik.</item>
+        <item>Organisasi baju hitamlah yang berada di balik penemuan secara beruntun mayat tanpa identitas! Musuh kali ini terdiri dari Gin, Vodka, Chianti, Korn, Vermouth, Kir, dan Rum. Kecerdasan dan kecerdikan yang tiada duanya akhirnya membawa secercah sinar terang berupa Selling Point : Shinichi Kudo detektif SMA yang memiliki ayah seorang novelis cerita detektif terkenal dunia. Dengan kemampuan analisisnya yang luar biasa, berbagai macam kasus sulit telah berhasil dia pecahkan.</item>
+        <item>Yuta Okkotsu seorang siswa SMA yang menginginkan hukuman mati untuk dirinya sendiri. Dia menderita karena Rika - roh pendendam yang menghantuinya. Namun, Satoru Gojo, seorang guru di Akademi Jujutsu - sekolah para shaman, meyakinkan Okkotsu untuk pindah ke sekolah tersebut. Inilah prekuel dari JUJUTSU KAISEN!!</item>
+        <item>You are loved by Allah exactly as you are in this very moment. The #1 international bestselling book, Secrets of Divine Love was written for the longing heart, for the one who is searching for something they have not been able to find. For the one who sometimes spirals into hopelessness and cannot help but feel too imperfect for a perfect God to love. This book is for the one who is at the edge of their faith, who has experienced religion as a harsh winter instead of the life-bearing spring it was sent to be by God. Secrets of Divine Love serves as a compass and guiding light that returns you to the source of divine peace and surrender. Through the practices and pillars of Islam, you will learn how to unlock your spiritual potential and unveil your divine purpose. A. Helwa uses a rational, yet heart-based approach towards the Quran that not only enlightens the mind, but inspires the soul towards deeper intimacy with Allah. By weaving together dozens of inspiring mystical stories, Quran verses, Hadith, Rumi and Hafez poetry, psychology, and science, the author breaks down Islam in a way that is both digestible and inspiring for millennial Muslims. A. Helwa not only unveils dozens of spiritual secrets hidden within the Quran, but she does so in an uplifting and gentle way that meets each reader exactly where they are on the path to God. While staying true to classical Islamic theology, A. Helwas emphasis on the forgotten teachings of love in Islam has a way of speaking not to just Muslims but to spiritual seekers of all traditions. Unlike your average book on religion that is focused solely on rules and outer practices, Secrets of Divine Love is a motivational and inspiring guide of how to experience the beauty hidden in the heart of the Quran and the Islamic tradition from a place of love, passion, and joy. If you have been longing to experience a more intimate and loving relationship with Allah, then this book was written for you.</item>
+        <item>Funiculi Funicula, sebuah kafe di gang sempit di Tokyo, masih kerap didatangi orang-orang yang ingin menjelajahi waktu. Peraturan-peraturan yang merepotkan masih berlaku, tetapi itu semua tidak menyurutkan harapan mereka untuk memutar waktu. Kali ini ada seorang pria yang ingin kembali ke masa lalu untuk menemui sahabat yang putrinya ia besarkan, seorang putra putus asa yang tidak menghadiri pemakaman ibunya, seorang pria sekarat yang ingin melompat ke dua tahun kemudian untuk memastikan kekasihnya bahagia, dan seorang detektif yang ingin memberi istrinya hadiah ulang tahun untuk pertama sekaligus terakhir kalinya. Kenyataan memang akan tetap sama. Namun dalam singkatnya durasi sampai kopi mendingin, mungkin masih tersisa waktu bagi mereka untuk menghapus penyesalan, membebaskan diri dari rasa bersalah, atau mungkin melihat terwujudnya harapan</item>
+        <item>Luffy Si Topi Jerami. Berkat kawan-kawan yang mencegah pengejaran para petinggi, Luffy yang hendak ke atap, akhirnya tiba di hadapan Kaido! Pertarungan sengit para pemeran yang telah berkumpul di panggung besar, akan segera dimulai Pertempuran penentuan Onigashima semakin memanas!! Simak kisah petualangan di lautan, One Piece!! Selling Point : - Guinness World Record untuk seri komik dengan cetakan terbanyak oleh seorang penulis. Sampai Oktober 2017, seri One Piece terjual lebih dari 430 juta copy seluruh dunia. - Komik petualangan bajak laut dengan cerita yang super seru, dan berlatar belakang dunia yang diciptakan dengan imajinasi yang luar biasa. Komik ini tak pernah kehabisan ide baru yang terus membuat pembaca penasaran. - Di tengah serunya alur cerita, One Piece selalu menekankan pentingnya Persahabatan - Best Seller di seluruh dunia, dan menjadi komik yang wajib dibaca, tak hanya oleh pembaca putra, tapi juga oleh pembaca putri. - Serial dan film animasi One Piece, serta merchandise-nya digemari di Indonesia. - Akan diadaptasi jadi live action series.</item>
+        <item>"Kulihat dunia dalam matamu dan masa depan dalam senyummu..." Sejak kecil, Olivia Mitchell ingin tahu siapa orangtua kandungnya. Jadi, ketika ia mendapat kesempatan bekerja di New York, ia pun menyambarnya tanpa ragu. Namun, mencari seseorang tanpa nama di kota sebesar New York adalah sesuatu yang mustahil. Kini kontrak kerja Olivia akan segera berakhir, dan Olivia menolak pulang ke Inggris sebelum berhasil melacak keberadaan orangtua kandungnya. Itu berarti ia harus segera mencari pekerjaan baru supaya ia bisa tetap tinggal di New York. Seolah-olah semua itu belum cukup memusingkan, Olivia mendadak bertemu kembali dengan Rex Rankin---sahabat masa kecilnya, sekaligus cinta pertamanya yang gagal---yang muncul untuk menawarkan bantuan. NOVEL KARYA ILANA TAN</item>
+        <item>PNS merupakan profesi impian bagi kebanyakan orang. Untuk itu, agar dapat lolos, diperlukan persiapan yang matang. Buku “Modul Resmi Taktis CPNS 2023” menyajikan pembahasan mengenai tes CPNS secara lengkap, mulai dari persyaratan hingga latihan soal. Dulu lowongan pekerjaan sebagai pegawai negeri sipil atau PNS selalu diabaikan karena dianggap tidak memiliki gaji yang besar dan seleksi yang kurang transparan. Namun, saat ini, pandangan tersebut telah berbalik 180 derajat. Menjadi PNS merupakan idaman dan harapan bagi sebagian besar masyarakat Indonesia. Selain untuk mengabdi kepada negara, berbagai fasilitas dan standar gaji yang cukup menarik patut untuk dilirik. Secara garis besar, buku ini berisi rangkuman materi-materi TES CPNS, lengkap dengan soal-soal TES CPNS dan kunci jawaban serta pembahasannya. Penulis berharap, buku ini memberi manfaat sebesar-besarnya bagi pembaca. Menjadi referensi jitu dalam memprediksikan soal-soal yang akan keluar. Buku ini sangat cocok dijadikan bahan latihan menjawab soal-soal TES CPNS. Di dalamnya terdapat KUNCI JAWABAN dan PEMBAHASAN yang rinci serta mudah dipahami. Pembaca juga akan mendapatkan panduan menjawab soal dengan cara cepat. Semoga buku ini benar-benar membawa manfaat untuk semua. Tentu buku ini tidak luput dari kesalahan. Oleh sebab itu, penulis selalu terbuka untuk saran dan kritik yang sifatnya membangun dari pembaca. Kelak, saran dan kritik tersebut akan dijadikan bahan koreksi demi kesempurnaan buku ini ke depan. Tahun Terbit : Cetakan Pertama 2023</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp. 54.400</item>
+        <item>Rp. 92.000</item>
+        <item>Rp. 63.200</item>
+        <item>Rp. 85.000</item>
+        <item>Rp. 40.000</item>
+        <item>Rp. 40.000</item>
+        <item>Rp. 120.000</item>
+        <item>Rp. 63.200</item>
+        <item>Rp. 36.000</item>
+        <item>Rp. 79.200</item>
+        <item>Rp. 147.600</item>
+    </string-array>
+
+    <string-array name="data_store">
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://tokopedia.link/rHsNu5FVKCb</item>
+        <item>https://tokopedia.link/Vhsu1OOVKCb</item>
+        <item>https://tokopedia.link/afzBg1VVKCb</item>
+        <item>https://tokopedia.link/caTSLT9VKCb</item>
+        <item>https:https://tokopedia.link/6OMAbdKWKCb</item>
+        <item>https:https://tokopedia.link/y6ccUTPWKCb</item>
+        <item>https:https://tokopedia.link/K1b2AsaXKCb</item>
+        <item>https://tokopedia.link/d6QiwjpXKCb</item>
+        <item>https://tokopedia.link/AOQ7nLCXKCb</item>
+        <item>https://tokopedia.link/sbzIPYMXKCb</item>
+        <item>https://tokopedia.link/OUvY111XKCb</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/rich_dad_poor_daad</item>
+        <item>@drawable/laut_bercerita</item>
+        <item>@drawable/psychology_of_money_softcover</item>
+        <item>@drawable/bicara_itu_ada_seninya</item>
+        <item>@drawable/detektif_conan100</item>
+        <item>@drawable/jujutsu_kaisen_0</item>
+        <item>@drawable/secret_of_divine_love</item>
+        <item>@drawable/funiculi_funicula_2_kisah_kisah_yang_baru_terungkap</item>
+        <item>@drawable/one_piece_99</item>
+        <item>@drawable/the_star_and_i</item>
+        <item>@drawable/buku_modul_resmi_taktis_cpns_2023</item>
+    </integer-array>
+
+    <integer-array name="data_store_photo">
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+    </integer-array>
+
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_about">About Me</string>
+
+</resources>
